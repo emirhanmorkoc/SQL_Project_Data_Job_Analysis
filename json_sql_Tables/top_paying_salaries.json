@@ -1,0 +1,92 @@
+[
+  {
+    "job_id": 226942,
+    "job_title_short": "Data Analyst",
+    "company_name": "Mantys",
+    "job_location": "Anywhere",
+    "job_schedule_type": "Full-time",
+    "job_posted_date": "2023-02-20 15:13:33",
+    "salary_year_avg": "650000.0"
+  },
+  {
+    "job_id": 40145,
+    "job_title_short": "Data Scientist",
+    "company_name": "Selby Jennings",
+    "job_location": "Anywhere",
+    "job_schedule_type": "Full-time",
+    "job_posted_date": "2023-08-16 16:05:16",
+    "salary_year_avg": "550000.0"
+  },
+  {
+    "job_id": 1714768,
+    "job_title_short": "Data Scientist",
+    "company_name": "Selby Jennings",
+    "job_location": "Anywhere",
+    "job_schedule_type": "Full-time",
+    "job_posted_date": "2023-09-01 19:24:02",
+    "salary_year_avg": "525000.0"
+  },
+  {
+    "job_id": 327496,
+    "job_title_short": "Senior Data Scientist",
+    "company_name": "Glocomms",
+    "job_location": "Anywhere",
+    "job_schedule_type": "Full-time",
+    "job_posted_date": "2023-01-31 16:03:46",
+    "salary_year_avg": "475000.0"
+  },
+  {
+    "job_id": 1131472,
+    "job_title_short": "Data Scientist",
+    "company_name": "Algo Capital Group",
+    "job_location": "Anywhere",
+    "job_schedule_type": "Full-time",
+    "job_posted_date": "2023-07-31 14:05:21",
+    "salary_year_avg": "375000.0"
+  },
+  {
+    "job_id": 627602,
+    "job_title_short": "Senior Data Scientist",
+    "company_name": "Algo Capital Group",
+    "job_location": "Anywhere",
+    "job_schedule_type": "Full-time",
+    "job_posted_date": "2023-08-30 10:06:34",
+    "salary_year_avg": "375000.0"
+  },
+  {
+    "job_id": 1742633,
+    "job_title_short": "Data Scientist",
+    "company_name": "Demandbase",
+    "job_location": "Anywhere",
+    "job_schedule_type": "Full-time",
+    "job_posted_date": "2023-07-12 03:07:31",
+    "salary_year_avg": "351500.0"
+  },
+  {
+    "job_id": 547382,
+    "job_title_short": "Data Analyst",
+    "company_name": "Meta",
+    "job_location": "Anywhere",
+    "job_schedule_type": "Full-time",
+    "job_posted_date": "2023-08-23 12:04:42",
+    "salary_year_avg": "336500.0"
+  },
+  {
+    "job_id": 21321,
+    "job_title_short": "Data Engineer",
+    "company_name": "Engtal",
+    "job_location": "Anywhere",
+    "job_schedule_type": "Full-time",
+    "job_posted_date": "2023-01-27 18:10:51",
+    "salary_year_avg": "325000.0"
+  },
+  {
+    "job_id": 1352714,
+    "job_title_short": "Machine Learning Engineer",
+    "company_name": "Storm5",
+    "job_location": "Anywhere",
+    "job_schedule_type": "Full-time",
+    "job_posted_date": "2023-11-24 14:25:28",
+    "salary_year_avg": "325000.0"
+  }
+]
