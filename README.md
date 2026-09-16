@@ -99,7 +99,7 @@ ORDER BY
 The chart below illustrates the frequency of technical skills required across the top-paying remote data roles from your dataset. 
 
 
-![top_skills](assests\top_skilss.png)
+![top_skills](assests/top_skilss.png)
 
 
 
@@ -131,7 +131,7 @@ LIMIT 5
 ````
 The chart below displays the top 5 most in-demand skills for remote Data Analyst roles based on total job posting mentions.  
 
-![mostdemanded_skill](assests\most_demanded.png)
+![mostdemanded_skill](assests/most_demanded.png)
 
 
 ### 4. Top Skills Based on Salary
@@ -159,7 +159,7 @@ LIMIT 25
 
 The chart below illustrates the 25 highest-paying skills for remote Data Analyst roles based on average annual salary.  
 
-![highes_pay](assests\highest_paying.png)
+![highes_pay](assests/highest_paying.png)
 
 
 ### 5. Most Optimal Skills to Learn
@@ -189,7 +189,7 @@ LIMIT 25
 
 The visualizations below analyze the optimal skills for remote Data Analysts by combining high salary potential with minimum market demand (>10 job listings).  
 
-![optimal](assests\optimal.png)
+![optimal](assests/optimal.png)
 
 
 
