@@ -58,7 +58,7 @@ LIMIT 10;
 *** The visualization below displays the top 10 highest-paying remote data job postings from your SQL query result. ***
 
 
-![top_paying](assests\top_paying_salaries.png)
+![top_paying](assests/top_paying_salaries.png)
 
 ### 2. Skills Required for Top-Paying Roles
 Joined top job postings with required skills to identify what high-paying employers look for in candidates.
